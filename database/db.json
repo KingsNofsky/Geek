@@ -1,0 +1,40 @@
+{
+  "produto": [
+    {
+      "id": "1130",
+      "nome": "Game Boy Color Verde",
+      "valor": "299.99",
+      "imagem": "https://m.media-amazon.com/images/I/61vi4-7L0qL._SL1500_.jpg"
+    },
+    {
+      "id": "6bde",
+      "nome": "Game Boy Classic",
+      "valor": "249.99",
+      "imagem": "https://1.bp.blogspot.com/-tO1_HBpZTFU/XxSrrOLgTUI/AAAAAAAABuE/ndx1UGoXUvMyPhn-_bCK-lF_H9noJVmGACLcBGAsYHQ/s2048/NINTCHDBPICT000456717497.jpg"
+    },
+    {
+      "id": "d0aa",
+      "nome": "Game Boy Advanced SP",
+      "valor": "349.99",
+      "imagem": "https://m.media-amazon.com/images/I/81E9LMtyupL.jpg"
+    },
+    {
+      "id": "1acc",
+      "nome": "Mega Drive III",
+      "valor": "249.99",
+      "imagem": "https://http2.mlstatic.com/mega-drive-sega-D_NQ_NP_389021-MLB20683986335_042016-F.jpg"
+    },
+    {
+      "id": "82f4",
+      "nome": "Nintendo 64 Roxo",
+      "valor": "699.99",
+      "imagem": "https://vintageuy.com/img_productos/tamanio_unico/5172153a90f39a80ce4946503954ef714aad9d29.jpg"
+    },
+    {
+      "id": "77bd",
+      "nome": "polystation",
+      "valor": "399.00",
+      "imagem": "https://th.bing.com/th/id/R.629581b0fb4c9ec394b38b21f602cc67?rik=BSclElnWdyYYjw&riu=http%3a%2f%2fwww.gamefm.com.br%2fwp-content%2fuploads%2f2014%2f05%2fPSOne_Style_Famicom_Clone_adjusted.jpg&ehk=yS%2bB4QjXkhNtKb28pxHdor6AIo8qjfj8JfsV9LGmWp0%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ]
+}
