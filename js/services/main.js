@@ -45,7 +45,7 @@ const render = async () => {
     }   
     
     async function deletarProduto(id) {
-        const resposta = await fetch(`http://localhost:3000/produto/${id}`,{
+        const resposta = await fetch(`https://json-testes.vercel.app/produto/${id}`,{
             method: "DELETE",
         })
         .then(response => {
