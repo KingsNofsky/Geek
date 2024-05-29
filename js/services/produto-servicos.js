@@ -1,5 +1,5 @@
 const listaProduto = () => {
-    return fetch("http://localhost:3000/produto/")
+    return fetch("https://json-testes.vercel.app/produto/")
     .then((res) => res.json())
     .catch((err) => console.log(err))
 };
@@ -7,7 +7,7 @@ const listaProduto = () => {
 //criar produto pelo formulario
 
 const criarProduto = (nome, valor, imagem) => {
-    return fetch("http://localhost:3000/produto", {
+    return fetch("https://json-testes.vercel.app/produto/", {
         method: "POST",
         headers: {
             "Content-Type":"application/json",
